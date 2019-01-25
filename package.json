@@ -1,0 +1,19 @@
+{
+  "name": "auto-generate-file-dir",
+  "version": "1.0.0",
+  "description": "a cli to generate file directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zl123top/auto-generate-file-dir.git"
+  },
+  "author": "zl123top",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zl123top/auto-generate-file-dir/issues"
+  },
+  "homepage": "https://github.com/zl123top/auto-generate-file-dir#readme"
+}
